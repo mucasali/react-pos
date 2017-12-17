@@ -1,0 +1,23 @@
+.transaction {
+    margin: 10px;
+    padding: 10px;
+    background: #FFF;
+}
+
+.total {
+    text-align: right;
+    color: black;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.container{
+    padding: 10px
+}
+
+.certain-category-icon {
+  color: #6E6E6E;
+  transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  font-size: 16px;
+}
